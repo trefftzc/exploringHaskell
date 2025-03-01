@@ -1,3 +1,11 @@
 ## A first notebook to explore haskell
 
-To start in Binder? https://hub.2i2c.mybinder.org/user/trefftzc-exploringhaskell-ey2scspv/doc/tree/FirstHaskellNotebook.ipynb
+Go to 
+ https://mybinder.org/
+
+ The github repository is:
+  https://github.com/trefftzc/exploringHaskell
+
+  The python notebook name is:
+
+  FirstHaskellNotebook.ipynb
